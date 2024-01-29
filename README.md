@@ -1,1 +1,1 @@
-Visita mi portafolio SENA https://github.com/Marmedig/Portafolio.git
+Visita mi portafolio SENA https://marmedig.github.io/Portafolio/
